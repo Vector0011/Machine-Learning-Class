@@ -1,2 +1,2 @@
 print("hello universe")
-print("abc")
+print("ab")
