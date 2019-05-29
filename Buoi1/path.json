@@ -1,0 +1,17 @@
+[
+	{
+		"path": "G:\python\BaiVeNha\log.txt",
+		"file_name": "log.txt",
+		"oke": "True"
+	},
+	{
+		"path": "G:\python\dcl\.gitignore",
+		"file_name": ".gitignore",
+		"oke": "False"
+	},
+	{
+		"path": "G:\python\BaiVeNha\README.md",
+		"file_name": "README.md",
+		"oke": "True"
+	}
+]

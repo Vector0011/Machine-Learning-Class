@@ -1,2 +1,1 @@
-print("hello universe")
-print("abd")
+print(input().strip().split('/')[-1])
